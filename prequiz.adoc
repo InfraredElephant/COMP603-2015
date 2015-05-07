@@ -22,39 +22,62 @@ git push -u --all origin
 
 What is the difference between a set, a bag, and a sequence?
 
+	A set has a set size and type (number of elements)
+	A bag is expandable and can contain any type (but I think each can only hold objects of a declared type)
+	A sequence might be like linked list? maybe each element has info about the next node
 
 What is a language (in terms of sets and sequences)?
 
+	A language is a collection of sets and sequences, perhaps.
 
 What is a compiler? Name some.
 
+	A compiler translates one programming language into another.
+	Java Compiler, C++ Compiler, 
 
 What is an interpreter? How does that differ from a compiler?
 
+	An interpreter translates one language to another. They don't like it when you confuse them with computer programs. 
+	Compilers, on the other hand, are emotionally ambivalent on being confused with people, as they are code, and code lacks emotion. For Now.
 
 What is the derivative of a language?
-
+	
+	I am unsure, but I would guess that it is a less feature rich variant of a language. For instance, C may be the dirivative of C++
 
 What is a regular expression?
 
+	Something that comes up in everyday conversation. "I think my computer is pregnant" is not a regular expression. 
 
 What is a finite automaton, and what is the difference between an NFA and a DFA?
 
+	Finite Automaton is the son of Infinite Automaton. The NFA is an order of secret assasins lead by Finite Automaton. The DFA is a corrupt corporate conglomerate lead by Infinite Automaton.
+	The NFA and DFA are mortal enemies. Is the Automaton family doomed? Tune in next week to find out.
 
 What is a grammar, and what is the difference between regular grammars, context-free grammars, LL(k) and LR(k)?
 
+	I haz a grammar. Regular grammars are the eloquent and thoughtful word stykes used around those who wear ties to work. 
+	Context-free grammars r like wen u rite to ur friends. LL = Lex Luthor LR = Lone Ranger
 
 What is the difference between derivative parsing, recursive-descent parsing, shift-reduce parsing and parser combinators?
 
+	This I'm not sure on. 
 
 What is a visitor?
 
+	Someone who comes over for brunch or who is engaging in the act of "visiting". Implecations are that they are from "elsewhere" and that they are not jabberwocks.
 
 What is the difference between a parse tree and an abstract syntax tree?
 
+	I would assume father would be rather cross if I were to cut down either. 
+	Perhaps the taste of the fruits differs?
 
 Name some optimizations.
 
+	Optimizations make things more efficient by eleminating uneeded excecutions. 
+	Name Some?
+		Ummm... Optimus Prime?
 
 What questions do you have for me?
 
+	I realize now that taking operating systems would probably help with this class. 
+	It's not a prereq but do you think I'm gonna be at a real disadvantage without that information?
